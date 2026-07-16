@@ -1,0 +1,8 @@
+﻿docker :  Image whatsapp-tools-app Building 
+At line:1 char:1
++ docker compose build --no-cache app 2>&1 | Out-File -FilePath build.l ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ( Image whatsapp-tools-app Buildin 
+   g :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
